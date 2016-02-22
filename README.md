@@ -3,7 +3,7 @@
 Dotenv-Mustache integrates the lovely [Mustache](http://github.com/janl/mustache.js) templating language into  [dotenv](http://github.com/motdotla/dotenv).
 This would allow for the creation of dynamic environment variables.
 
-[![NPM version](https://img.shields.io/npm/v/dotenv-mustache.svg?style=flat-square)](https://www.npmjs.com/package/dotenv-mustache)
+[![NPM version](https://img.shields.io/npm/v/dotenv-mustache.svg)](https://www.npmjs.com/package/dotenv-mustache)
 
 ## Install
 
