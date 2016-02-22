@@ -2,7 +2,7 @@
   "name": "dotenv-mustache",
   "version": "1.0.0",
   "description": "A node package to help apply the mustache templating language to create dynamic dotenv variables",
-  "main": "./dist/js/is-available.js",
+  "main": "./dist/index.js",
   "homepage": "https://github.com/samcrosoft/dotenv-mustache",
   "scripts": {
     "build": "gulp",
